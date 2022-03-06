@@ -1,2 +1,1 @@
-## Alx Start UP
-Programming Languages
+Alx Course
